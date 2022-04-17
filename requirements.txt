@@ -1,0 +1,4 @@
+google_apis_oauth_django==1.0.0
+Django==3.2.8
+djangorestframework==3.13.1
+google_api_python_client==2.44.0
