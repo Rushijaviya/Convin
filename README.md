@@ -10,6 +10,10 @@ Task
 - Implement the OAuth2 mechanism to get users calendar access.
 - Print the list of events from API.
 
+Recording:
+--------
+![Recording](record.gif)
+
 ## How to run
 ```bash
 # Fetch the Farc repo using git
