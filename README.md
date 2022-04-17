@@ -14,6 +14,9 @@ Recording:
 --------
 ![Recording](record.gif)
 
+For better recording:
+https://drive.google.com/file/d/1FrL44C1_bdKxo3rpXw8bGLxiS_Y9O08e/view
+
 ## How to run
 ```bash
 # Fetch the Farc repo using git
