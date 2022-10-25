@@ -12,6 +12,7 @@ Task
 
 Recording:
 --------
+
 ![Recording](record.gif)
 
 For better recording:
