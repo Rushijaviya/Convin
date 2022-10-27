@@ -8,7 +8,7 @@ Task
 
 - Implement google calendar integration using django rest API.
 - Implement the OAuth2 mechanism to get users calendar access.
-- Print the list of events from API.
+- Print the list of events from API. 
 
 Recording:
 --------
@@ -20,13 +20,13 @@ https://drive.google.com/file/d/1FrL44C1_bdKxo3rpXw8bGLxiS_Y9O08e/view
 
 ## How to run
 ```bash
-# Fetch the Farc repo using git
+# Fetch the repo using git
 git clone https://github.com/Rushijaviya/Convin.git
 
-# Change into the Farc directory
+# Go to the directory
 cd Convin
 
-# Install a compatible version of Farc
+# Install a compatible version
 pip install -r requirements.txt
 
 # run command
